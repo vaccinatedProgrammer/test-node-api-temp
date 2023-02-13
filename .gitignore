@@ -1,0 +1,17 @@
+# Dependency directories
+node_modules/
+
+# dotenv environment variables file
+.env
+
+# vscode settings
+.vscode*
+
+# Coverage directory used by tools like istanbul
+coverage
+
+# Optional eslint cache
+.eslintcache
+
+# Optional npm cache directory
+.npm
